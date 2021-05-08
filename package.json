@@ -20,17 +20,9 @@
     "test:module3": "mocha test/module3.test.js",
     "test:module4": "mocha test/module4.test.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pmbanugo/node-automating-with-npm-scripts.git"
-  },
   "keywords": [],
-  "author": "Peter Mbanugo <p_mbanugo @Twitter>",
+  "author": "Noredine bahri",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/pmbanugo/node-automating-with-npm-scripts/issues"
-  },
-  "homepage": "https://github.com/pmbanugo/node-automating-with-npm-scripts#readme",
   "dependencies": {
     "fastify": "2.12.1"
   },
